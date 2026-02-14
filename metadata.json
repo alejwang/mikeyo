@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EtherWave - Virtual Theremin",
+  "description": "A touchless musical instrument controlled by your hands using computer vision and 3D visuals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
