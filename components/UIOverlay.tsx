@@ -28,7 +28,7 @@ export const UIOverlay: React.FC<UIOverlayProps> = ({
           Sound Waves From Mikeyo
         </h1>
         <p className="text-gray-400 mb-8 max-w-md text-center">
-          Handfree sound control over the air
+          Handsfree sound control over the air
           <br /><br />
           <span className="text-blue-400">Left Hand</span> = Volume
           <br />
